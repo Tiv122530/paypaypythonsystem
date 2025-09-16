@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "paypaypythonsystem"
+version = "0.1.0"
+description = "A Python library for PayPay API integration"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.8"
+authors = [
+    {name = "Your Name", email = "your.email@example.com"},
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+]
+dependencies = [
+    "requests",
+    "pytest",
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/paypaypythonsystem"
+Repository = "https://github.com/yourusername/paypaypythonsystem.git"
+Issues = "https://github.com/yourusername/paypaypythonsystem/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-dir]
+"" = "src"</content>
+<parameter name="filePath">c:\Users\Student\Downloads\paypaypythonsystem\pyproject.toml
