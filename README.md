@@ -1,6 +1,6 @@
 # paypaypythonsystem
 
-paypaypythonsystemは、PayPay APIと連携するためのPythonライブラリです。PayPayのモバイル決済サービスをプログラムから操作できます。このライブラリは、TypeScript版のpaypax-mainを基にPythonで実装されています。
+paypaypythonsystemは、PayPay APIと連携するためのPythonライブラリです。PayPayのモバイル決済サービスをプログラムから操作できます。
 
 ## 特徴
 
