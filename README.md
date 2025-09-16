@@ -183,8 +183,8 @@ pytest
 
 ## 連絡先
 
-- GitHub: [https://github.com/yourusername/paypaypythonsystem](https://github.com/yourusername/paypaypythonsystem)
-- メール: your.email@example.com
+- GitHub: [https://github.com/Tiv122530/paypaypythonsystem](https://github.com/Tiv122530/paypaypythonsystem)
+- メール: muzui122530@gmail.com
 
 ## 注意事項
 

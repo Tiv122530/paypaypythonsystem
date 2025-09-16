@@ -10,7 +10,7 @@ readme = "README.md"
 license = {file = "LICENSE"}
 requires-python = ">=3.8"
 authors = [
-    {name = "Your Name", email = "your.email@example.com"},
+    {name = "Your Name", email = "muzui122530@gmail.com"},
 ]
 classifiers = [
     "Development Status :: 3 - Alpha",
@@ -29,9 +29,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/paypaypythonsystem"
-Repository = "https://github.com/yourusername/paypaypythonsystem.git"
-Issues = "https://github.com/yourusername/paypaypythonsystem/issues"
+Homepage = "https://github.com/Tiv122530/paypaypythonsystem"
+Repository = "https://github.com/Tiv122530/paypaypythonsystem.git"
+Issues = "https://github.com/Tiv122530/paypaypythonsystem/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
